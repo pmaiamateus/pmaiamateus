@@ -9,8 +9,8 @@ Para entrar em contato:
   - email: pmaiamateus@gmail.com
 
 <div>
-  <img height="240px" src="https://github-readme-stats.vercel.app/api?username=pmaiamateus" />
-  <img height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmaiamateus" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=pmaiamateus" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmaiamateus" />
 <div/>
 <!---
 pmaiamateus/pmaiamateus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
